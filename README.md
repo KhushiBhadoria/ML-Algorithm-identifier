@@ -1,3 +1,3 @@
 # ML-Algorithm-identifier-for-regression
-Finding the best suitable ML algorithm for any dataset is one of the needs of developers. So I made this project, which provids best suitable ML Algorithm on the basis of error and accuracy.
+Finding the best suitable ML algorithm for his/her dataset is the need of every developer.So, here's a simple Algorithm Identifier program that provides *Best Suitable Algorithm* for your dataset on the basis of Accuracy and Error.
 
